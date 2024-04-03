@@ -4,4 +4,6 @@ Build with go build, then put the executable in a directory with a .env file con
 
 ## Change the executed process
 
-Figure it out yourself (hint, line 23)
+Implementation is left as an exercise to the reader.
+
+You should check the line 23.
